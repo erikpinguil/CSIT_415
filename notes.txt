@@ -1,0 +1,3 @@
+This repository is for CSIT 415.
+I am learning how to use GitHub.
+This file was created to practice commits.
